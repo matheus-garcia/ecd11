@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de configuração do sistema
+*.DS_Store
+*.db
+*.sqlite3
+
+# Arquivos de log
+*.log
+
+# Teste de cobertura
+.coverage
+coverage.xml
+*.cover
+
+# Arquivos de cache
+.cache/
+*.egg-info/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
