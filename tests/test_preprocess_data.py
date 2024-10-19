@@ -1,5 +1,5 @@
 import pandas as pd
-from pipeline.preprocess.preprocess_data import normalize_column, fill_missing_values
+from ..pipeline.preprocess.preprocess_data import *
 
 # Testa a função de normalização
 def test_normalize_column():

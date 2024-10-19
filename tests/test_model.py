@@ -1,6 +1,6 @@
 import numpy as np
 from sklearn.linear_model import LinearRegression
-from pipeline.ml_model.model import train_linear_model, predict
+from ..pipeline.ml_model.model import *
 
 # Testa o treinamento do modelo
 def test_train_linear_model():
